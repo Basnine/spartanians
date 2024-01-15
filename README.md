@@ -1,2 +1,2 @@
-# spartanians
+# partanians
 app
