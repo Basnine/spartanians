@@ -1,2 +1,2 @@
 # spartanians
-app
+@app
